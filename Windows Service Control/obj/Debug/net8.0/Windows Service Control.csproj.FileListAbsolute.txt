@@ -1,0 +1,50 @@
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\UserService.deps.json
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\UserService.runtimeconfig.json
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\UserService.exe
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\appsettings.json
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Windows Service Control.staticwebassets.runtime.json
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Windows Service Control.exe
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Windows Service Control.deps.json
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Windows Service Control.runtimeconfig.json
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Windows Service Control.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Windows Service Control.pdb
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Serilog.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\UserService.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\bin\Debug\net8.0\UserService.pdb
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows Service Control.csproj.AssemblyReference.cache
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows Service Control.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows Service Control.AssemblyInfoInputs.cache
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows Service Control.AssemblyInfo.cs
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows Service Control.csproj.CoreCompileInputs.cache
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows Service Control.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows Service Control.RazorAssemblyInfo.cache
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows Service Control.RazorAssemblyInfo.cs
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\staticwebassets\msbuild.Windows Service Control.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\staticwebassets\msbuild.build.Windows Service Control.props
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Windows Service Control.props
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Windows Service Control.props
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\scopedcss\bundle\Windows Service Control.styles.css
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\scopedcss\projectbundle\Windows Service Control.bundle.scp.css
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows .0CE7F4E2.Up2Date
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows Service Control.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\refint\Windows Service Control.dll
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows Service Control.pdb
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\Windows Service Control.genruntimeconfig.cache
+C:\Users\Shree\Desktop\Windows Service\Windows Service Control\obj\Debug\net8.0\ref\Windows Service Control.dll

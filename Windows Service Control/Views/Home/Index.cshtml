@@ -1,0 +1,32 @@
+﻿@model object
+@{
+    ViewBag.Title = "Home Page";
+}
+<style>
+    /* Style for disabled buttons */
+    input[disabled] {
+        cursor: not-allowed;
+        opacity: 0.5; /* You can adjust the opacity to your preference */
+    }
+</style>
+
+<div class="text-center">
+    <h1 class="display-4 text-primary">Positive Reporting Service</h1>
+
+    <h3 class="text-success">The Service is: @ViewBag.Status</h3>
+
+    @using (Html.BeginForm("StartService", "Home"))
+    {
+        <input id="startbtn" class="btn btn-primary" type="submit" value="Start" @(ViewBag.Status == "Running" ? "disabled" : "") />
+    }
+
+    @using (Html.BeginForm("StopService", "Home"))
+    {
+        <input id="stopbtn" class="mt-4 btn btn-danger" type="submit" value="Stop" @(ViewBag.Status != "Running" ? "disabled" : "") />
+    }
+</div>
+<script>
+ setTimeout(function () {
+        location.reload();
+    }, 5000);
+</script>
