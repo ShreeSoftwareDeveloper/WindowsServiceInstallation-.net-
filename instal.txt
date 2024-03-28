@@ -1,4 +1,13 @@
 for install the  Windows Service
+// publish your code first from your visual studiio.
+SC Create "ServiceName" binpath="YourService example-(C:\Users\Shree\Desktop\Windows Service\UserService.exe)"
+
 SC Create "PositiveReportingService" binpath="C:\Users\Shree\Desktop\Windows Service\UserService.exe"
 
 sc create <"ServiceName"> binpath="your path" if you want to auto use start=auto 
+
+//for delete service
+sc delete Service Name 
+sc delete PositiveReportingService 
+
+Note Visual Studio and Cmd And Service all are open in administration mode
