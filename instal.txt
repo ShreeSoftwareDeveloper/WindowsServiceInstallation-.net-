@@ -1,0 +1,4 @@
+for install the  Windows Service
+SC Create "PositiveReportingService" binpath="C:\Users\Shree\Desktop\Windows Service\UserService.exe"
+
+sc create <"ServiceName"> binpath="your path" if you want to auto use start=auto 
